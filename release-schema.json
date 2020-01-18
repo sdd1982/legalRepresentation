@@ -3,15 +3,20 @@
     "Organization": {
       "properties": {
         "legalRepresentation": {
-          "identifier ": {
-            "type": "string",
-            "description": "Número de identificación del contacto",
-            "title": "Identificador"
-          },
-          "name": {
-            "type": "string",
-            "description": "Nombre del contacto",
-            "title": "nombre"
+          "title": "Legal representation",
+          "description": "Representante legal de la organización",
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string",
+              "description": "Nombre del contacto",
+              "title": "nombre"
+            },
+            "identifier ": {
+              "type": "string",
+              "description": "Número de identificación del contacto",
+              "title": "Identificador"
+            }
           }
         }
       }
