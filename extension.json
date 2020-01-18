@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "legalRepresentation"
+  },
+  "description": {
+    "en": "Datos del representante legal de la entidad"
+  },
+  "documentationUrl": {
+    "en": "https://github.com/sdd1982/legalRepresentation/blob/master/README.md"
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "schemas": [
+    "release-schema.json"
+  ]
+}

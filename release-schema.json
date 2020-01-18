@@ -1,0 +1,20 @@
+{
+  "definitions": {
+    "Organization": {
+      "properties": {
+        "legalRepresentation": {
+          "identifier ": {
+            "type": "string",
+            "description": "Número de identificación del contacto",
+            "title": "Identificador"
+          },
+          "name": {
+            "type": "string",
+            "description": "Nombre del contacto",
+            "title": "nombre"
+          }
+        }
+      }
+    }
+  }
+}
