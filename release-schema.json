@@ -12,7 +12,7 @@
               "description": "Nombre del contacto",
               "title": "nombre"
             },
-            "identifier ": {
+            "id ": {
               "type": "string",
               "description": "Número de identificación del contacto",
               "title": "Identificador"
